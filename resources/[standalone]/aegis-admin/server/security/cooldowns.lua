@@ -1,0 +1,1 @@
+Aegis = Aegis or {}; Aegis.Cooldowns = Aegis.Cooldowns or {}; local last={}; function Aegis.Cooldowns.CanUse(src,cap,cool) local now=os.time() local key=("%s:%s"):format(src,cap) local cd=cool[cap] if not cd then return true,0 end if not last[key] then last[key]=0 end local remain=(last[key]+cd)-now if remain<=0 then last[key]=now return true,0 else return false,remain end end

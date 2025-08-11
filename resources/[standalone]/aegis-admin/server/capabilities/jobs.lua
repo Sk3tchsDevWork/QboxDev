@@ -1,0 +1,1 @@
+local function ad() if Config.Framework=='qbox' then return Aegis.Adapters.qbox end return Aegis.Adapters.qb end Aegis=Aegis or {}; Aegis.Capabilities=Aegis.Capabilities or {}; Aegis.Capabilities['jobs.set']=function(s,d) return ad().SetJobGrade(tonumber(d.target), tostring(d.job or 'unemployed'), tonumber(d.grade) or 0) end

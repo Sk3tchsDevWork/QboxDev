@@ -1,0 +1,1 @@
+Aegis = Aegis or {}; Aegis.Security = Aegis.Security or {}; local nonce=0; function Aegis.Security.Sign(p) nonce=nonce+1 return ('sig:%s:%d'):format(GetInvokingResource() or 'aegis-admin', nonce) end
