@@ -1,0 +1,6 @@
+# Ignore cache and temp files
+cache/
+*.bkp
+*.png
+*.log
+*.tmp
