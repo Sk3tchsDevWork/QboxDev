@@ -1,6 +1,7 @@
-# Ignore cache and temp files
-cache/
-*.bkp
-*.png
-*.log
-*.tmp
+@@ -1,6 +0,0 @@
+-# Ignore cache and temp files
+-cache/
+-*.bkp
+-*.png
+-*.log
+-*.tmp
