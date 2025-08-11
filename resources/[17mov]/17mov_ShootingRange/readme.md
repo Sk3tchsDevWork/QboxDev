@@ -1,0 +1,11 @@
+# Installation
+> Basically installation process is automatically. You just need to place resource somewhere at `resources` directory and place `ensure 17mov_ShootingRange` into `server.cfg` file. Script will automatically take care about database and inform you about this into server console.
+
+# Compability
+> This script is compatible with `es_extended` and `qb-core` by default. If you are using another framework resource then you need to configure it at your own. Each "interaction" with framwork is into `bridge/custom/client.lua` and `bridge/custom/server.lua`. You just need to adjust functions from these files and this should work with your custom framework
+
+# Configuration
+> You can easly configure this resource into `config.lua` file. You can find more instrucions into config.
+
+# Translations
+> By default we are offering english and polish translations. If you need some another langugage you need to translate resource at your own. This process is very simple, for example you want to translate resource to german so: You need to copy `en.lua` and rename it to `de.lua`, then open this file with your favourite code editor (ex. VSCode). First thing you should do is add `if Config.Language ~= 'de' then return end` at the beggining of file. Then you must change `Locales["en"]` to `Locales["de"]`. Then you just need to translate everything. If you are very begginer: this file is key and value pairs for ex. `["KEY"] = "Value"`. You **don't** touch `KEY` you just need to translate values. Also you should be careful to quotation marks, commas etc. otherwise script will fail. In some strings, you might find `%s`. This is a placeholder that will be replaced by a specific value when the script runs. You should **not** change or remove `%s` in your translations. Instead, you should leave it exactly as it is. For example, if you have a string like `["WELCOME"] = "Welcome, %s!"`, you should translate it to something like `["WELCOME"] = "Willkommen, %s!"` in German. The `%s` will be replaced by the player's name or another relevant value when the script runs.
