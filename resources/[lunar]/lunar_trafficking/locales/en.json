@@ -1,0 +1,22 @@
+{
+    "drug_trafficking": "Drug trafficking",
+    "go_to_first": "Drive to the first client.",
+    "go_to_stop": "Drive to the next client.",
+    "drop_off": "Hand over package",
+    "dropping_off": "Handing over the package...",
+    "completed": "Packages delivered: %s/%s",
+    "mission_canceled": "The mission has been cancelled.",
+    "not_available": "The mission is no longer available.",
+    "go_to_vehicle": "Get to the stashed vehicle.",
+    "get_into_vehicle": "Get into the vehicle.",
+    "drop_off_drugs": "Hand over the drugs in arranged locations.",
+    "accept_mission": "Accept the mission",
+    "mission_completed": "Mission completed.",
+    "ped_moved": "Gerald has moved to a new location.",
+    "go_to_payout": "Go to Gerald to receive the payment.",
+    "vehicle_far": "The transport vehicle is too far.",
+    "receive_payout": "Receive payment",
+    "received_payout": "Good work, here's your cut of the money.",
+    "remind": "You have 5 minutes left.",
+    "not_enough_police": "Not enough police."
+}

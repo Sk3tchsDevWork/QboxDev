@@ -1,0 +1,22 @@
+{
+    "drug_trafficking": "Narkotikų prekyba",
+    "go_to_first": "Vairuokite pas pirma klientą.",
+    "go_to_stop": "Vairuokite pas kitą klientą.",
+    "drop_off": "Perduoti paketą",
+    "dropping_off": "Perduodamas paketas...",
+    "completed": "Pristatyti paketai: %s/%s",
+    "mission_canceled": "Misija atšaukta.",
+    "not_available": "Misija jau nebepasiekama.",
+    "go_to_vehicle": "Pajudėkite link paslėptos transporto priemonės.",
+    "get_into_vehicle": "Įlipkite į transporto priemonę.",
+    "drop_off_drugs": "Perduokite narkotikus sutartose vietose.",
+    "accept_mission": "Priimti misiją",
+    "mission_completed": "Misija baigta.",
+    "ped_moved": "Geraldas persikėlė į naują vietą.",
+    "go_to_payout": "Eikite pas Geraldą gauti apmokėjimo.",
+    "vehicle_far": "Transporto priemonė per toli.",
+    "receive_payout": "Gauti apmokėjimą",
+    "received_payout": "Gerai padirbėta, čia tavo dalis pinigų.",
+    "remind": "Jums liko 5 min.",
+    "not_enough_police": "Nepakanka policijos."
+}

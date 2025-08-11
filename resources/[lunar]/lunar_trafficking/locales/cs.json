@@ -1,0 +1,22 @@
+{
+    "drug_trafficking": "Pašování drog",
+    "go_to_first": "Jeďte k prvnímu klientovi.",
+    "go_to_stop": "Jeďte k dalšímu klientovi.",
+    "drop_off": "Předat zabalené drogy",
+    "dropping_off": "Předáváš zabalené drogy...",
+    "completed": "Balíky doručeny: %s/%s",
+    "mission_canceled": "Mise byla zrušena.",
+    "not_available": "Mise již není dostupná.",
+    "go_to_vehicle": "Dostaň se k schovanému vozidlu.",
+    "get_into_vehicle": "Nastupte do vozidla.",
+    "drop_off_drugs": "Předejte drogy na smluvených místech.",
+    "accept_mission": "Přijmout misi",
+    "mission_completed": "Mise dokončena.",
+    "ped_moved": "Gerald se přesunul na nové místo.",
+    "go_to_payout": "Jdi za Geraldem, abys obdržel platbu.",
+    "vehicle_far": "Přepravní vozidlo je příliš daleko.",
+    "receive_payout": "Přijmout platbu",
+    "received_payout": "Dobrá práce, tady je váš podíl z peněz.",
+    "remind": "Zbývá ti 5 minut.",
+    "not_enough_police": "Nedostatek státních složek."
+}

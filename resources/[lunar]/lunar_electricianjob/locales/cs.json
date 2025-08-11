@@ -1,0 +1,17 @@
+{
+    "show_offers": "Nabídka práce",
+    "spawn_vehicle": "Pracovní vozidlo",
+    "vehicle_timeout": "Musíš počkat před vyparkováním vozidla.",
+    "save": "[E] - Uložit vozidlo",
+    "reward": "Výplata",
+    "destinations": "Destinace",
+    "started": "Destinace byla označena na GPS.",
+    "repair": "Opravit",
+    "employer": "Zaměstnavatel",
+    "continue": "Chcete pokračovat v práci?",
+    "stop": "Konec směny",
+    "open": "Otevíráš pojistkovou skříň...",
+    "success_repair": "Úspěšně opraveno.",
+    "destination": "Destinace",
+    "not_enough_money": "Nedostatek peněz."
+}

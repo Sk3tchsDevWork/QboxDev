@@ -1,0 +1,17 @@
+{
+    "show_offers": "Show offers",
+    "spawn_vehicle": "Work vehicle",
+    "vehicle_timeout": "You need to wait before taking out another vehicle.",
+    "save": "[E] - Save vehicle",
+    "reward": "Reward",
+    "destinations": "Destinations",
+    "started": "Destination has been marked on your GPS.",
+    "repair": "Repair",
+    "employer": "Employer",
+    "continue": "Do you want to continue working?",
+    "stop": "Stop",
+    "open": "Opening box...",
+    "success_repair": "Successfully repaired.",
+    "destination": "Destination",
+    "not_enough_money": "Not enough money."
+}
